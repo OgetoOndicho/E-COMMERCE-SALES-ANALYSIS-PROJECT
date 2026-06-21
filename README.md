@@ -33,7 +33,7 @@ This analysis explored the data in four hierarchical phases.
 
 
 ## TOOLS USED FOR PROJECT
-- Microsoft Excel: For data cleaning,analysis and reporting.
+- Microsoft Excel: For data cleaning,analysis, design of interactive dashboard and reporting.
 - Github: For project hosting.
 
 
